@@ -1,0 +1,42 @@
+.allcards{
+ 
+    float: left;
+    width: 30%;
+    height: 50px;
+    margin-bottom: 15%;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: left;
+    
+
+
+
+}
+.onecard {
+    background-color:#D9D9D9;
+    color: white;
+    font-Size:20px
+
+
+}
+.aa{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+
+}
+
+/* .cardImg{
+    float:left;
+    margin-left:125px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Modified*/
+    /*overflow:hidden;*/
+    /* background-color: blue; 
+} */
+
+/* .cardImg img{
+    width:100%;
+  } */ 

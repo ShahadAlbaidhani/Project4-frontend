@@ -1,0 +1,33 @@
+.div-auth{
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    color: #666363;
+    display: flex;
+    background-color:#D9D9D9;
+    width: 50%;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2%;
+    border-radius: 15px;
+}
+
+.item-div a {
+
+   
+    color:#666363;
+    display: flex;
+    /* background-color:#9EB7B8; */
+    width: 50%;
+    margin: 50%;
+    align-items: center;
+    justify-content: center;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    padding: 2%;
+}
+
+.item-div a:hover{
+    color:black;
+}

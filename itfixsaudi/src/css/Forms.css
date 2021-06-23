@@ -1,0 +1,62 @@
+
+.from-Square{
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    color:white;
+    display: flex;
+    background-color:#353535;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2%;
+    border-radius: 15px;
+
+
+}
+
+.form-label{
+    margin-top: 10%;
+}
+label{
+    margin-top: 10%;
+}
+
+input , option , select {
+    border:none;
+    border-bottom: 1px solid white;
+    background-color:#353535;
+    width: 100%;
+    color: white;
+
+}
+.form-control{
+    border:none;
+    border-bottom: 1px solid white;
+    background-color:#353535;
+    width: 100%;
+    color: white;
+}
+textarea:focus, input:focus{
+    outline: none;
+
+}
+textarea{
+    width: 100%;
+    
+}
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .button-from{
+      background-color: white;
+  }
+
+  Button{
+      margin-top: 20%;
+  }
